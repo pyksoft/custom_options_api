@@ -1,0 +1,2 @@
+class ConfigOption < ApplicationRecord
+end

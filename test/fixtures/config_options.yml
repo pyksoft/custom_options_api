@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  autocomplete: false
+  validate_pre_checkout: false
+
+two:
+  autocomplete: false
+  validate_pre_checkout: false
